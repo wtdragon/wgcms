@@ -285,7 +285,7 @@ nav#nav-below{ margin-top:15px;}
 #baomin p{text-align:center;}
 #baomin .btn{width:112px;height:30px;line-height:30px;text-align:center;text-indent:9px;font-size:14px;font-weight:bold;color:#fff;background:url(images/btn_logo.gif) no-repeat left top;border:0;}
 /*主菜单*/
-#menu{width:1000px;height:39px;margin:0 auto;background:url(images/menu_bg.jpg) repeat-x left top;border-bottom:2px solid #912771;}
+#menu{width:1000px;height:39px;margin:0 auto;border-bottom:2px solid #912771;}
 #menu ul{line-height:39px;text-align:center;font-size:14px;color:#999;}
 #menu ul li{font-weight:bold;display:inline;}
 #menu ul li a{margin:0 15px;}

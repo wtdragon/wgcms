@@ -24,9 +24,11 @@ a{ text-decoration:none; color:#e42e54;}
 a:hover{ color:#000;}
 ol,ul{ margin:0; padding:0;}
 ul li ul, ul li ul li ul, ol li ol, ol li ol li ol{ margin-left:10px;}
-h1,h2,h3,h4,h5,h6{ color:#484f5e; font-family:'Roboto', sans-serif; margin:0 0 20px; padding:0; line-height:1.1; font-weight:300; word-wrap:break-word; }
+h1,h2,h3,h4,h5,h6{ color:#484f5e; font-family:'Roboto', sans-serif; width: 100px;
+	margin-top: 20px; margin:0 0 20px; padding:0; line-height:1.1; font-weight:300; word-wrap:break-word; }
 h1{ font-size:28px;}
-h2{ font-size:24px;}
+h2{ font-size:24px;    width: 100px;
+	margin-top: 20px;}
 h3{ font-size:22px;}
 h4{ font-size:20px;}
 h5{ font-size:18px;}

@@ -24,7 +24,7 @@ a{ text-decoration:none; color:#e42e54;}
 a:hover{ color:#000;}
 ol,ul{ margin:0; padding:0;}
 ul li ul, ul li ul li ul, ol li ol, ol li ol li ol{ margin-left:10px;}
-h1,h2,h3,h4,h5,h6{ color:#484f5e; font-family:'Roboto', sans-serif; margin:0 0 20px; padding:0; line-height:1.1; font-weight:300; word-wrap:break-word; }
+h1,h2,h3,h4,h5,h6{ color:#484f5e; font-family:'Roboto', sans-serif; margin:0 20px 20px; margin-top:20px;padding:0; line-height:1.1; font-weight:300; word-wrap:break-word; }
 h1{ font-size:28px;}
 h2{ font-size:24px;}
 h3{ font-size:22px;}
@@ -317,7 +317,7 @@ nav#nav-below{ margin-top:15px;}
 /*视频*/
 #video{float:left;width:342px;height:284px;margin-left:16px;background-color:#faebf0;border:1px solid #eeb9cb;display:inline;}
 .video_list{float:left;padding-top:5px;}
-.video_list li{float:left;width:140px;position:relative;margin:0 0 15px 19px;display:inline;}
+.video_list li{float:left;width: 40%;position:relative;margin:0 0 15px 19px;display:inline;}
 .video_list li a.play{width:29px;height:29px;position:absolute;top:50%;left:50%;margin:-15px 0 0 -15px;background:url(images/1.jpg) no-repeat left top;}
 .video_list li a.play:hover{background-position:right top;}
 .video_list li img{width:135px;height:97px;border:4px solid #e6c8d2;display:block;}
